@@ -1,4 +1,4 @@
-# Akebi language Chinese patch
+# Akebi Language Chinese Localization
 
 ### **features**
 - [ ] Add translation of entries
