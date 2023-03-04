@@ -16,3 +16,40 @@
 - [ ] Cantonese(Yue) localization
 
   ![](https://progress-bar.dev/0/?width=140)
+
+### Previews
+
+<details>
+  <summary><b>Player</b></summary>
+  <img src="Images/Simplified%20Chinese/Player.png">
+</details>
+
+<details>
+  <summary><b>World</b></summary>
+  <img src="Images/Simplified%20Chinese/World.png">
+</details>
+
+<details>
+  <summary><b>Teleoport</b></summary>
+  <img src="Images/Simplified%20Chinese/Teleport.png">
+</details>
+
+<details>
+  <summary><b>ESP</b></summary>
+  <img src="Images/Simplified%20Chinese/ESP.png">
+</details>
+
+<details>
+  <summary><b>Visuals</b></summary>
+  <img src="Images/Simplified%20Chinese/Visuals.png">
+</details>
+
+<details>
+  <summary><b>Hotkeys</b></summary>
+  <img src="Images/Simplified%20Chinese/Hotkeys.png">
+</details>
+
+<details>
+  <summary><b>Settings</b></summary>
+  <img src="Images/Simplified%20Chinese/Settings.png">
+</details>

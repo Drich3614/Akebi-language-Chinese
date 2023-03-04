@@ -16,3 +16,40 @@
 - [ ] 广东话（粤语）本地化
 
   ![](https://progress-bar.dev/0/?width=140)
+  
+### 预览
+
+<details>
+  <summary><b>玩家</b></summary>
+  <img src="Images/Simplified%20Chinese/Player.png">
+</details>
+
+<details>
+  <summary><b>世界</b></summary>
+  <img src="Images/Simplified%20Chinese/World.png">
+</details>
+
+<details>
+  <summary><b>传送</b></summary>
+  <img src="Images/Simplified%20Chinese/Teleport.png">
+</details>
+
+<details>
+  <summary><b>透视</b></summary>
+  <img src="Images/Simplified%20Chinese/ESP.png">
+</details>
+
+<details>
+  <summary><b>视图</b></summary>
+  <img src="Images/Simplified%20Chinese/Visuals.png">
+</details>
+
+<details>
+  <summary><b>热键</b></summary>
+  <img src="Images/Simplified%20Chinese/Hotkeys.png">
+</details>
+
+<details>
+  <summary><b>设置</b></summary>
+  <img src="Images/Simplified%20Chinese/Settings.png">
+</details>

@@ -1495,6 +1495,7 @@
         "Attach": "绑定",
         "Auto disable when bag is full": "当背包上限时自动关闭",
         "Automatically disables auto pickup when bag is full.": "当背包到达上限时自动关闭自动拾取功能",
+        "Drag from here": "此处可拖动",
         "Delay (in ms) between loot/open actions.\nValues under 200ms are unsafe.\nNot used if no auto-functions are on.": "拾取/交互的延迟(以毫秒为单位)。\n不推荐设置低于200ms\n当没有启用自动拾取/自动交互功能时无效。",
         "Modifies pickup/open range to this value (in meters).": "将拾取/交互范围修改为该值（以米为单位）。",
         "Delay range +(ms)": "延迟范围 +(ms)",
