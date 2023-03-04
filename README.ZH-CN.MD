@@ -1,6 +1,7 @@
 # Akebi语言包 中文本地化
 
-** [English](README.MD) / 大陆简体 / [台灣正體](README.ZH-TW.MD) / [粵語漢字](README.ZH-YUE.MD) **
+**[English](README.MD) / 大陆简体 / [台灣正體](README.ZH-TW.MD) / [粵語漢字](README.ZH-YUE.MD)**
+---
 
 ### **任务进度**
 - [ ] 补充词条翻译

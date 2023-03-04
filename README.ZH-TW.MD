@@ -1,6 +1,7 @@
 # Akebi語言包 中文在地化
 
-** [English](README.MD) / [大陆简体](README.ZH-CN.MD) / 台灣正體 / [粵語漢字](README.ZH-YUE.MD) **
+**[English](README.MD) / [大陆简体](README.ZH-CN.MD) / 台灣正體 / [粵語漢字](README.ZH-YUE.MD)**
+---
 
 ### **任務進度**
 - [ ] 增補條目翻譯
