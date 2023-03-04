@@ -6,13 +6,13 @@
 ### **任務進度**
 - [ ] 增補條目翻譯
 
-![](https://progress-bar.dev/80/?width=140)
+  ![](https://progress-bar.dev/96/?width=140)
 - [ ] 用字用詞修飾
 
-![](https://progress-bar.dev/80/?width=140)
+  ![](https://progress-bar.dev/90/?width=140)
 - [ ] 兩岸用詞差異修正 ~~來個台灣人幫幫忙吧plz~~
 
-![](https://progress-bar.dev/0/?width=140)
+  ![](https://progress-bar.dev/0/?width=140)
 - [ ] 廣東話（粵語）在地化
 
-![](https://progress-bar.dev/0/?width=140)
+  ![](https://progress-bar.dev/0/?width=140)

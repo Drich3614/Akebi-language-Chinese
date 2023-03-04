@@ -6,13 +6,13 @@
 ### **tasks**
 - [ ] Add translation of entries
 
- ![](https://progress-bar.dev/80/?width=140)
+  ![](https://progress-bar.dev/96/?width=140)
 - [ ] Embellish some entries
 
- ![](https://progress-bar.dev/80/?width=140)
+  ![](https://progress-bar.dev/90/?width=140)
 - [ ] Fixing Traditional and Simplified Chinese Divergent Words ~~Any Taiwanese help me plz~~
 
- ![](https://progress-bar.dev/0/?width=140)
+  ![](https://progress-bar.dev/0/?width=140)
 - [ ] Cantonese(Yue) localization
 
- ![](https://progress-bar.dev/0/?width=140)
+  ![](https://progress-bar.dev/0/?width=140)
