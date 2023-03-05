@@ -12,7 +12,7 @@
   ![](https://progress-bar.dev/90/?width=140)
 - [ ] 两岸用语差异修正 ~~来个台湾人帮帮吧plz~~
 
-  ![](https://progress-bar.dev/0/?width=140)
+  ![](https://progress-bar.dev/40/?width=140)
 - [ ] 广东话（粤语）本地化
 
   ![](https://progress-bar.dev/0/?width=140)

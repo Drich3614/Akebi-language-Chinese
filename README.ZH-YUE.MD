@@ -12,7 +12,7 @@
   ![](https://progress-bar.dev/90/?width=140)
 - [ ] 兩岸詞彙差異修正
 
-  ![](https://progress-bar.dev/0/?width=140)
+  ![](https://progress-bar.dev/40/?width=140)
 - [ ] 廣東話（粵語）本地化
 
   ![](https://progress-bar.dev/0/?width=140)
