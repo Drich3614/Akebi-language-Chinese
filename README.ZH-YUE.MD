@@ -4,10 +4,10 @@
 ---
 
 ### **任務進度**
-- [ ] 補充條目翻譯
+- [x] 補充條目翻譯
 
-  ![](https://progress-bar.dev/96/?width=140)
-- [ ] 用字選詞修飾
+  ![](https://progress-bar.dev/98/?width=140)
+- [x] 用字選詞修飾
 
   ![](https://progress-bar.dev/90/?width=140)
 - [ ] 兩岸詞彙差異修正

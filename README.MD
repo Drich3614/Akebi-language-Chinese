@@ -4,10 +4,10 @@
 ---
 
 ### **tasks**
-- [ ] Add translation of entries
+- [x] Add translation of entries
 
-  ![](https://progress-bar.dev/96/?width=140)
-- [ ] Embellish some entries
+  ![](https://progress-bar.dev/98/?width=140)
+- [x] Embellish some entries
 
   ![](https://progress-bar.dev/90/?width=140)
 - [ ] Fixing Traditional and Simplified Chinese Divergent Words ~~Any Taiwanese help me plz~~

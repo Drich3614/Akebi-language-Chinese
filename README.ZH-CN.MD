@@ -4,10 +4,10 @@
 ---
 
 ### **任务进度**
-- [ ] 补充词条翻译
+- [x] 补充词条翻译
 
-  ![](https://progress-bar.dev/96/?width=140)
-- [ ] 用语用词润色
+  ![](https://progress-bar.dev/98/?width=140)
+- [x] 用语用词润色
 
   ![](https://progress-bar.dev/90/?width=140)
 - [ ] 两岸用语差异修正 ~~来个台湾人帮帮吧plz~~
